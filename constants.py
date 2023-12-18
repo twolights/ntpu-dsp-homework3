@@ -1,0 +1,8 @@
+Ms = 1, 4, 16, 64, 256, 512, 1024, 2048
+MIN_PHASE_Ms = 4, 16, 63  # XXX
+
+Fc = 4000   # Cutoff frequency
+Fs = 44100  # Sampling frequency
+
+TEST_SINE_FREQUENCIES = (3500, 4500, 7500, 10000)
+SIGNAL_LENGTH_IN_SECONDS = 5
